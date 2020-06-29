@@ -1,5 +1,5 @@
 body{
-    background:linear-gradient(to right, rgb(19, 143, 236), rgb(108, 203, 52));
+    background: linear-gradient(to left, rgba(7, 27, 82,1)0%, rgba(0,128,128,1)100%)
 }
 .container{
     display: flex;
